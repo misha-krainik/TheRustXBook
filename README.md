@@ -5,6 +5,10 @@
 
 [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 
+[The Rust Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/index.html)
+
+[The Rust Reference](https://doc.rust-lang.org/reference/index.html)
+
 [The Rust Rand Book](https://rust-random.github.io/book/guide-start.html)
 
 [The Rust Performance Book](https://nnethercote.github.io/perf-book/benchmarking.html)
@@ -13,4 +17,16 @@
 
 [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
 
+[The Rustonomicon](https://doc.rust-lang.org/nomicon/index.html)
+
 [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
+
+[The rustdoc book](https://doc.rust-lang.org/rustdoc/write-documentation/documentation-tests.html)
+
+[The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
+
+[The Rust Edition Guide](https://doc.rust-lang.org/edition-guide/index.html)
+
+[The rustc book](https://doc.rust-lang.org/rustc/index.html)
+
+[Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
