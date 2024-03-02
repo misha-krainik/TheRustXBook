@@ -30,3 +30,5 @@
 [The rustc book](https://doc.rust-lang.org/rustc/index.html)
 
 [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
+
+[Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
