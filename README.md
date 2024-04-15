@@ -32,3 +32,5 @@
 [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 
 [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+
+[Comprehensive Rust by Google](https://google.github.io/comprehensive-rust/index.html)
