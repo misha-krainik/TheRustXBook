@@ -36,3 +36,5 @@
 [Comprehensive Rust by Google](https://google.github.io/comprehensive-rust/index.html)
 
 [Rust Design Patterns](https://rust-unofficial.github.io/patterns/intro.html)
+
+[Linear Algebra](https://rust-lang-nursery.github.io/rust-cookbook/science/mathematics/linear_algebra.html)
